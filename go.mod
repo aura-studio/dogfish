@@ -1,9 +1,8 @@
-module github.com/aura-studio/dogfish/v2
+module github.com/aura-studio/dogfish
 
 go 1.21
 
 require (
-	github.com/aura-studio/dogfish v1.1.0
 	github.com/golang/snappy v1.0.0
 	github.com/shopspring/decimal v1.3.1
 )

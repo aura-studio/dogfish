@@ -1,7 +1,5 @@
 github.com/aura-studio/boost v1.22.1 h1:BPsjMIrBq5sfsidvcVRBXAMp8Ne8dcQJa+QYeFQYBaA=
 github.com/aura-studio/boost v1.22.1/go.mod h1:1cZg97mAaLAW3rDwnT1HejmIeuIG85SV8J0NxF30yW8=
-github.com/aura-studio/dogfish v1.1.0 h1:RF6UiOho4cuAOzM6YhgRcQDMvMvw0yBcR2GAEmQgJMk=
-github.com/aura-studio/dogfish v1.1.0/go.mod h1:kqa+Ax6NemJ7jTHNI+rTmhxkrL4zXBClEuNoUZ7i5tY=
 github.com/gocarina/gocsv v0.0.0-20221105105431-c8ef78125b99 h1:qNAaZUnCulf2xIQc7rM6F3uGYr80h40rtilsVKyAHoM=
 github.com/gocarina/gocsv v0.0.0-20221105105431-c8ef78125b99/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
