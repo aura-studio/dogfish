@@ -5,12 +5,12 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/aura-studio/boost/encoding"
+	"github.com/aura-studio/encodingx"
 )
 
 var (
-	json  = encoding.NewJSON()
-	proto = encoding.NewProtobuf()
+	json  = encodingx.NewJSON()
+	proto = encodingx.NewProtobuf()
 )
 
 // Int is a wrapper for int.
